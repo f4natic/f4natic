@@ -62,12 +62,12 @@
 
 ### Certificates:
 - Completion of training from the employer at Yandex on the "Test Automatization" course
-
+<!--
 ### Projects:
 - Resource calculation system for production, which may be expanded into a "knowledge base" for Eve Online (pet project). It consists of the following parts:
 	- Admin Panel - CRUD operations on resources, for administrators
 	- Client-side - searching for the required resource and its components + calculating the necessary resources for producing a certain quantity of the required resource. Integration with the EVE Online API for connecting a game account is possible.
-
+-->
 ### Languages
 - Russian (native)
 - English (B1/technical level)
